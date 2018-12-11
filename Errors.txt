@@ -1,0 +1,12 @@
+Read CSV File (UTF-16).vi
+---------------------------
+5008: Invalid character encoding. UTF-16 LE expected.
+
+ProjFile_Read File.vi
+----------------------------
+####: Wrong file type
+
+####: Invalid file version
+
+
+
